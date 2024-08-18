@@ -7,5 +7,4 @@
 ![Screenshot 2024-05-25 095938](https://github.com/Thejpc/leetcode/assets/136478774/ca4178e5-6a8c-46cb-9088-5ce156667df1)
 ![Screenshot 2024-05-30 223608](https://github.com/Thejpc/leetcode/assets/136478774/295be664-1e45-4736-8455-6d8175f0da0b)
 ![Screenshot 2024-05-31 092107](https://github.com/Thejpc/leetcode/assets/136478774/5ceb095b-b4d8-4675-aab8-69ba5c49eba2)
-
-
+[Mamcos 12 - Copy-2.pdf](https://github.com/user-attachments/files/16647583/Mamcos.12.-.Copy-2.pdf)
